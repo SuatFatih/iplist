@@ -1,3 +1,4 @@
-# iplist
-ip adresler
+
+ip adresler /n
 192.168.1.1
+192.213.74.41
